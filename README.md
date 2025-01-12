@@ -41,7 +41,7 @@ Welcome to **MyBookstore**, the ultimate destination for book lovers! This proje
   Contains the main structure of the website.
 - 🎨 **styles.css**  
   Holds the styling for the website.
-- 🖼️ **Assets**  
+- 🖼️ **Img**  
   Images and icons used in the project.
 
 ---
@@ -67,5 +67,7 @@ I am excited to share that I joined **Oasis Infobyte** as a Web Development and 
 
 
 📞 Contact Me
-LinkedIn: linkedin.com/in/vikas-khandekar-9233a9257
+
+LinkedIn: https://linkedin.com/in/vikas-khandekar-9233a9257
+
 GitHub: https://github.com/vikaskhandekar7083
